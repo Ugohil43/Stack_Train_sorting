@@ -43,5 +43,4 @@ void TrainReader::erase()
         if (point != nullptr) delete point;
         this->stack.pop();
     }
-    
 }

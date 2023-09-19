@@ -7,6 +7,8 @@ set(SOURCES
     ./src/Wagon.cpp
     ./src/TrainReader.h
     ./src/TrainReader.cpp
+    ./src/TrainConsole.h
+    ./src/TrainConsole.cpp
     )
 
 include_directories(
